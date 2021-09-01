@@ -1,0 +1,3 @@
+[submodule "npm update"]
+	path = npm update
+	url = git@gist.github.com:1c932b5c85a8aa7eed770d21a7a510fb.git
